@@ -22,7 +22,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/<fathimazaida52-collab>/<new-one></url>
+            <url>https://maven.pkg.github.com/fathimazaida52-collab/new-one/url>
         </repository>
     </distributionManagement>
 
